@@ -1,0 +1,19 @@
+body{
+    background-image: url("941898.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    opacity: 0.5;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+p{
+    opacity: 0.5;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
